@@ -19,10 +19,6 @@ import AdsContainer from "@tonyjiang02/ads-container";
 <AdsContainer creatorId={mastodon.social/@tonyjiang02} />;
 ```
 
-## Props
-
-- **adType** (String): Specifies the type of advertisement to display. Options include "banner", "sidebar", "popup", etc.
-
 ## Example
 
 ```jsx
